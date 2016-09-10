@@ -1,0 +1,11 @@
+/*
+Theme Name:	Twenty Sixteen for fhLUG.at
+Theme URI:	http://fhLUG.at
+Description:	Specific changes for fhLUG.at
+Author:	knittl
+Author URI:	http://fhLUG.at/author/dkf
+Template:	twentysixteen
+Version:	0.0.1
+*/
+
+.post-type-post p { text-align:justify; }
